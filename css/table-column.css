@@ -1,0 +1,112 @@
+/* CSS Document */
+
+
+.columnarea1 {
+  width: 20%;
+  padding-left: 4%;
+}
+
+.columnarea2 {
+  width: 14%;
+}
+
+.columnarea3 {
+  width: 14%;
+}
+
+.columnarea4 {
+  width: 14%;
+}
+.columnarea5 {
+  width: 10%;
+}
+
+
+.columnhome1 {
+  width: 20%;
+  padding-left: 4%;
+}
+
+.columnhome2 {
+  width: 20%;
+}
+
+.columnhome3 {
+  width: 16%;
+}
+
+.columnhome4 {
+  width: 14%;
+}
+.columnhome5 {
+  width: 13%;
+}
+.columnhome6 {
+  width: 13%;
+}
+
+
+.table100-body-status {
+  max-height: 400px !important;
+  overflow: auto;
+}
+
+.columnstatus1 {
+  width: 25%;
+  padding-left: 4%;
+}
+
+.columnstatus2 {
+  width: 20%;
+}
+
+.columnstatus3 {
+  width: 20%;
+}
+
+.columnstatus4 {
+  width: 16%;
+}
+.columnstatus5 {
+  width: 17%;
+}
+
+
+.columnbooking1 {
+  width: 25%;
+  padding-left: 4%;
+}
+
+.columnbooking2 {
+  width: 20%;
+}
+
+.columnbooking3 {
+  width: 20%;
+}
+
+.columnbooking4 {
+  width: 16%;
+}
+
+.columnbooking5 {
+  width: 17%;
+}
+
+
+.columnau1 {
+  width: 30%;
+  padding-left: 4%;
+}
+
+.columnau2 {
+  width: 20%;
+}
+
+.columnau3 {
+  width: 22%;
+}
+
+.columnau4 {
+ width: 23%;
+}
